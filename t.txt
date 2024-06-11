@@ -1,11 +1,1 @@
-2. Modern and Minimalist:
 
-Colors:
-Primary: #1E90FF (Dodger Blue) - Backgrounds, Headers
-Secondary: #F0F0F0 (Light Grey) - Text, Highlights
-Accent 1: #FFA500 (Orange) - Buttons, Links
-Accent 2: #4CAF50 (Green) - Call-to-action buttons
-Accent 3: #D3D3D3 (Silver) - Borders, Dividers
-Fonts:
-Heading: Roboto
-Body: Lato
